@@ -40,16 +40,18 @@ There are five alternative tab placements:
 It's possible to change the size of the tab row with two options. Default and recommended size is medium for both settings. 
 
 **Tab Text size**
+
 | Options  	    | Description 	   |
-| ------------- | -------------    |
+| --- | --- |
 | S  		  	| Small text size  |
 | M 		  	| Medium text size |
 | L  			| Large text size  |
 
 
 **Tab Size**
+
 | Options  	    | Description 	  |
-| ------------- | -------------   |
+| --- | --- |
 | S  		  	| Small tab size  |
 | M 		  	| Medium tab size |
 | L  			| Large tab size  |
