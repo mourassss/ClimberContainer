@@ -1,5 +1,5 @@
 # Climber Container
-<a href="https://github.com/ClimberAB/ClimberContainer/releases/download/v1.0.0/cl-container_v1.0.0.zip
+<a href="https://github.com/ClimberAB/ClimberContainer/releases/download/v1.0.0/cl-container-plus_v1.0.0.zip
 " target="_blank"><img src="./screenshots/downloadbutton.png?raw=true" 
 alt="Download latest release" width="400" height="40" border="0" /></a>  
  > The Climber Container allows for multiple objects in a container and have possibility to change visualizations with a tab row. There is no limitiation to the number of tabs or the type of objects to include. It's like having sheets withing sheets and the extension can be used as a navigation system within your Qlik Sense sheet. Some of the potential use cases are:  
@@ -15,10 +15,10 @@ alt="Download latest release" width="400" height="40" border="0" /></a>
 ![Tab dropdown menu](./screenshots/ContainerWithDropDown.GIF?raw=true "Tab dropdown menu")
 
 * Using container in container to create a hierarchy of charts.  
-![Alt Text](./screenshots/ContainerInContainer.gif?raw=true "Container in container")
+![Alt Text](./screenshots/ContainerInContainer.GIF?raw=true "Container in container")
 
 
-Have you built something nice with our extensions? Screenshots and animated gifs of your work is always welcome :-).
+Have you built something nice with our extensions? Screenshots and animated gifs of your work is always welcome.
 
 ## Getting started
 1. Add your visualizations as master items
@@ -69,16 +69,31 @@ Options for having the selected tab underlined
 
 Option for only having a icon in the tab description or showing a icon before or after the text. 
 
+**Sync tabs**
+
+Option to sync multiple containers active tab. Tabs with same name will be synced
+
+![Alt text](./screenshots/ContainerSyncTabs.gif?raw=true "Sync tabs")
+
 **Other notes**
 
 The extension is created as a generic solution to allow for many different use cases. For instance the tab labels allow an expression so it is possible to create more dynamic solutions and we allow containers to be placed inside containers. However, we still want the solution to be user friendly so we have not exposed more technical options like the ability to assign object id with an expression. We have also kept close to the Qlik Sense design and do not allow for specific font-sizes (in pixels) to retain the possiblities for responsive design. Please have these considerations in mind when/if you suggest improvements to the extension.
 
 ## Container +
-**Features**
+
+The Container + version has more functionality then the basic version
 
 * Action on click
-* Sync tabs between containers
+	- Clear selections in field
+	- Select value in field
+	- Select values in field
+	- Set a variable
+
 * Use expression to activate a tab
+	- When the expression evaluates to the tab name the tab will be active
+	
+* Hide tab bar
+	- Hide the tab bar and use the expression option to activate a tab
 
 Visit www.climber.eu for more information
 
