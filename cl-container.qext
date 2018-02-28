@@ -1,0 +1,9 @@
+{
+    "name": "Climber Container",
+    "description": "",
+    "version": "1.0.0",
+    "type": "visualization",
+    "icon": "low-resolution",
+    "preview": "preview.png",
+    "author": "Edward Hallgren & Karl Fredberg Sjöstrand"
+}
