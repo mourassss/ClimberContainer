@@ -97,7 +97,7 @@ The Container + version has more functionality then the basic version
 * Hide tab bar
 	- Hide the tab bar and use the expression option to activate a tab
 
-Visit www.climber.eu for more information
+Visit https://www.climber.se/pl-extension-for-qlik-sense/ for more information
 
 
 ## Limitations
