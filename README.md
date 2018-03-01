@@ -57,7 +57,7 @@ It's possible to change the size of the tab row with two options. Default and re
 
 **Tab alignment**
 
-The tabs can be aligned to the right, middle and to the left. This is not applicable for the Top Dropdown option. That list is always left aligned.
+The tabs can be aligned to the right, middle and to the left.  
 
 **Color options**
 
@@ -149,7 +149,7 @@ alt="Climber Custom Report Video" width="240" height="180" border="2" /></a>
 
 ## Change Log
 
-See [CHANGELOG](CHANGELOG.yml)
+See [CHANGELOG](CHANGELOG.md)
 
 ## License & Copyright
 The software is made available "AS IS" without any warranty of any kind under the MIT License (MIT).
