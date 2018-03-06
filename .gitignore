@@ -6,7 +6,6 @@ build/
 .DS_Store
 node_modules/
 build/datelocked
-build/
 dist/
 temp/
 tmp/
@@ -16,7 +15,6 @@ typings/
 jsconfig.json
 jsdoc/
 env
-release.js
 main.js
 package.json
 package-lock.json

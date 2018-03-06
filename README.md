@@ -1,5 +1,5 @@
 # Climber Container
-<a href="https://github.com/ClimberAB/ClimberContainer/releases/download/v1.0.0/cl-container-1.0.0.zip" target="_blank"><img src="./screenshots/downloadbutton.png?raw=true" 
+<a href="https://github.com/ClimberAB/ClimberContainer/releases/download/v1.0.1/cl-container-1.0.1.zip" target="_blank"><img src="./screenshots/downloadbutton.png?raw=true" 
 alt="Download latest release" width="400" height="40" border="0" /></a>  
  > The Climber Container allows for multiple objects in a container and have possibility to change visualizations with a tab row. There is no limitiation to the number of tabs or the type of objects to include. It's like having sheets within sheets and the extension can be used as a navigation system within your Qlik Sense sheet. Some of the potential use cases are:  
   
@@ -57,7 +57,7 @@ It's possible to change the size of the tab row with two options. Default and re
 
 **Tab alignment**
 
-The tabs can be aligned to the right, middle and to the left.  
+The tabs can be aligned to the right, middle and to the left.
 
 **Color options**
 
@@ -97,7 +97,7 @@ The Container + version has more functionality then the basic version
 * Hide tab bar
 	- Hide the tab bar and use the expression option to activate a tab
 
-Visit https://www.climber.se/pl-extension-for-qlik-sense/ for more information
+Visit www.climber.eu for more information
 
 
 ## Limitations
