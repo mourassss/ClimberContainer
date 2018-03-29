@@ -85,6 +85,8 @@ The extension is created as a generic solution to allow for many different use c
 
 The Container + version has more functionality then the basic version
 
+![Alt text](./screenshots/container+.png?raw=true "Container +")
+
 * Action on click
 	- Clear selections in field
 	- Select value in field
