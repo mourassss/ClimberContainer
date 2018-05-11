@@ -1,8 +1,9 @@
 # Climber Container
-<a href="https://github.com/ClimberAB/ClimberContainer/releases/download/v1.0.4/cl-container-v1.0.4.zip" target="_blank"><img src="./screenshots/downloadbutton.png?raw=true" 
+<a href="https://github.com/ClimberAB/ClimberContainer/releases/download/v1.0.5/cl-container-v1.0.5.zip" target="_blank"><img src="./screenshots/downloadbutton.png?raw=true" 
 alt="Download latest release" width="400" height="40" border="0" /></a>  
  > The Climber Container allows for multiple objects in a container and have possibility to change visualizations with a tab row. There is no limitiation to the number of tabs or the type of objects to include. It's like having sheets within sheets and the extension can be used as a navigation system within your Qlik Sense sheet. Some of the potential use cases are:  
   
+***Tested from Qlik Sense June 2017 (in the initial release of June 2017, extensions load slow. It's fixed in patch 1 )***
 
 * Replacing the "Fast Change" functionality of QlikView.  
 ![Fast Change in Qlik Sense](./screenshots/ContainerWithIcons.GIF?raw=true "Fast Change in Qlik Sense")

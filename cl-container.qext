@@ -1,7 +1,7 @@
 {
     "name": "Climber Container",
     "description": "",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "type": "visualization",
     "icon": "low-resolution",
     "preview": "preview.jpg",

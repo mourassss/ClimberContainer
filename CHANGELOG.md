@@ -6,6 +6,10 @@ Project versioning adheres to [Semantic Versioning](http://semver.org/).
 Commit convention is based on [Conventional Commits](http://conventionalcommits.org).
 Change log format is based on [Keep a Changelog](http://keepachangelog.com/).
 
+## 1.0.5 - 2018-03-28
+### Changed
+- Updated export function
+
 ## 1.0.4 - 2018-03-28
 ### Changed
 - Build problem
